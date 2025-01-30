@@ -8,7 +8,6 @@
   <img src="https://github.com/PaballoSaku/PaballoSaku/blob/main/Welcome%20to.gif" width="900px" height="auto">
 </p>
 
----
 
 ## Who am I? 
 
