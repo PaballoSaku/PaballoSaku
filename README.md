@@ -1,6 +1,6 @@
 <table align="center">
   <tr>
-    <td align="center"><h2>Hi there 👋</h2></td>
+    <td align="center"><h2>Hi there 👋</h1></td>
   </tr>
 </table>
 
@@ -10,7 +10,7 @@
 
 ---
 
-### Who am I? 
+## Who am I? 
 
 I'm an Instructional Designer transitioning into tech, with a background in Data Science and expertise in Power BI, Python, SQL, data modelling, and machine learning algorithms. Passionate about organising data and uncovering patterns, I'm quite good at turning insights into actionable strategies that drive business outcomes.
 
