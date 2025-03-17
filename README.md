@@ -11,10 +11,9 @@
 
 ## Who am I? 
 
-I'm an Instructional Designer transitioning into tech, with a background in Data Science and expertise in Power BI, Python, SQL, data modelling, and machine learning algorithms. Passionate about organising data and uncovering patterns, I'm quite good at turning insights into actionable strategies that drive business outcomes.
+I'm an educational professional transitioning into tech, with a background in Data Science and expertise in Power BI, Python, SQL, data modelling, and machine learning algorithms. Passionate about organizing data and uncovering patterns, I'm good at turning insights into actionable strategies that drive business outcomes.
 
-- 👩🏽‍💻 My 9-5? Working as a Curriculum/Instructional Designer ([Instructional Designer Portfolio](https://drive.google.com/drive/folders/1d2w62MLiZnAw7PDBB-zItS1DLmx7XuTa?usp=drive_link))
-- 🌚 My 5-9 after my 9-5? Constantly growing my skills by working through Python, SQL, Data Visualization, Machine Learning, and more.
+- 👩🏽‍💻 What am I currently doing? Constantly growing my skills by working through Python, SQL, Data Visualization, Machine Learning, and more.
 - 🌱 I’m currently learning Tableau
 - 💬 Ask me about: Baking
 - 📫 How to reach me: lucia.saku54@gmail.com
