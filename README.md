@@ -11,7 +11,7 @@
 
 ## Who am I? 
 
-I'm an educational professional transitioning into tech, with a background in Data Science and expertise in Power BI, Python, SQL, data modelling, and machine learning algorithms. Passionate about organizing data and uncovering patterns, I'm good at turning insights into actionable strategies that drive business outcomes.
+I'm a Learning Experience Designer with 5+ years of experience building digital learning and working with learning platforms. I also have a technical and data side: I have used Python to automate translation at work, and I have built SQL, Power BI, Machine Learning and Excel skills through my data science certificate and projects.
 
 - 👩🏽‍💻 What am I currently doing? Constantly growing my skills by working through Python, SQL, Data Visualization, Machine Learning, and more.
 - 🌱 I’m currently learning Tableau
